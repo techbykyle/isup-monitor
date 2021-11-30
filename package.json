@@ -1,7 +1,7 @@
 {
   "name": "isup-monitor",
   "federated-module-name": "IsUpMonitor",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Monitor if device/service is up.",
   "main": "index.js",
   "scripts": {
